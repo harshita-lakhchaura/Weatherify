@@ -1,7 +1,7 @@
 
 # Weatherify
 
-This is a weather application built entirely using ReactJS.
+This is a weather application built entirely using ReactJS. I fetched weather API from OpenWeatherMap. 
 
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/96336647/183300682-b0a17f2f-ff9c-4380-a716-6fc402a683af.png">
 
