@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Weatherify/static/css/main.9e4e1063.css",
+    "main.js": "/Weatherify/static/js/main.269c19b1.js",
+    "index.html": "/Weatherify/index.html",
+    "main.9e4e1063.css.map": "/Weatherify/static/css/main.9e4e1063.css.map",
+    "main.269c19b1.js.map": "/Weatherify/static/js/main.269c19b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4e1063.css",
+    "static/js/main.269c19b1.js"
+  ]
+}
